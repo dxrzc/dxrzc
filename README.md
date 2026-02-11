@@ -1,16 +1,21 @@
-## Hi there 👋
+## Diego Rodriguez
+Backend Engineer focused on scalable APIs, authentication systems and infrastructure-aware application design.
 
-<!--
-**dxrzc/dxrzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build production-style backend systems using Node.js/NestJS with strong emphasis on:
+- Authentication & session management (cookies, refresh tokens, RBAC)
+- Transactional data integrity and database design
+- Caching strategies and rate limiting with Redis
+- Containerized environments (Docker) and local Kubernetes deployments
+- Automated testing (unit, integration, e2e) and CI workflows
 
-Here are some ideas to get you started:
+I also have a C++ background, which strengthened my understanding of memory management, data structures and low-level system design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Core Projects
+- **Ratewise** – GraphQL backend with cursor pagination, caching and background jobs.
+- **Authtasker** – Session-based auth system with RBAC and token rotation.
+---
+
+### Languages and Tools
+![My Skills](https://skillicons.dev/icons?i=ts,nodejs,nestjs,graphql,postgres,mongodb,redis,docker,kubernetes,linux,cpp,git)
