@@ -1,21 +1,19 @@
-## Diego Rodriguez
-Backend Engineer focused on scalable APIs, authentication systems and infrastructure-aware application design.
+# Diego Rodriguez
 
-I build production-style backend systems using Node.js/NestJS with strong emphasis on:
-- Authentication & session management (cookies, refresh tokens, RBAC)
-- Transactional data integrity and database design
-- Caching strategies and rate limiting with Redis
-- Containerized environments (Docker) and local Kubernetes deployments
-- Automated testing (unit, integration, e2e) and CI workflows
+**Backend Engineer | Scalable Systems & Architecture | C++ Foundations**
 
-I also have a C++ background, which strengthened my understanding of memory management, data structures and low-level system design.
+Building scalable, secure backend systems with strong emphasis on performance and data integrity.
 
----
+Technical focus:
 
-### Core Projects
-- **Ratewise** – GraphQL backend with cursor pagination, caching and background jobs.
-- **Authtasker** – Session-based auth system with RBAC and token rotation.
+- Authentication & Authorization (session-based auth, refresh token rotation, RBAC)
+- Transactional consistency and relational database design
+- Cursor-based pagination and GraphQL schema design
+- Caching, background jobs, and rate limiting with Redis
+- Containerized environments (Docker) and Kubernetes workflows
+- Automated testing (unit, integration, e2e) and CI pipelines
+- Low-level data structures, memory control, and performance-oriented design (C++)
 ---
 
 ### Languages and Tools
-![My Skills](https://skillicons.dev/icons?i=ts,nodejs,nestjs,graphql,postgres,mongodb,redis,docker,kubernetes,linux,cpp,git)
+![My Skills](https://skillicons.dev/icons?i=ts,nestjs,nodejs,graphql,postgres,redis,docker,kubernetes,linux,cpp,git,mongodb)
